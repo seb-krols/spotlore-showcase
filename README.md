@@ -32,7 +32,7 @@ Built for the moments that matter: Valentine's Day gifts, anniversary compilatio
 **Send the link** — Set a password and share. They type it in, and the map flies through every memory — cinematic and sequential, or free exploration at their own pace.
 
 <div align="center">
-  <img src="YOUR_EDITOR_SCREENSHOT_URL_HERE" width="80%" alt="Spotlore Tour Editor" />
+  <img src="https://github.com/user-attachments/assets/2bd0f3c0-5ed6-4ac0-9bdc-3f22c6a6bdee" width="80%" alt="Spotlore Tour Editor" />
 </div>
 
 ---
@@ -46,9 +46,8 @@ Built for the moments that matter: Valentine's Day gifts, anniversary compilatio
 Tours set to "both" show a mode selector — the recipient chooses how they want to experience it.
 
 <div align="center">
-  <img src="YOUR_VIEWER_SCREENSHOT_URL_HERE" width="80%" alt="Spotlore Cinematic Viewer" />
+  <img src="https://github.com/user-attachments/assets/e2388f76-a3d6-4638-84b7-654db1c8b287" width="80%" alt="Spotlore Cinematic Viewer" />
 </div>
-
 ---
 
 ## Architecture
