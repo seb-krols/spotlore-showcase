@@ -9,7 +9,8 @@
 <div align="center">
 
 [![Live App](https://img.shields.io/badge/Live%20App-spotlore.app-4F46E5?style=flat&logo=vercel&logoColor=white)](https://YOUR_VERCEL_URL_HERE)
-[![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://YOUR_VERCEL_URL_HERE)
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange)]()
+<!--[![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://YOUR_VERCEL_URL_HERE)-->
 
 </div>
 
@@ -149,7 +150,8 @@ Spotlore started as a Valentine's Day gift — a single HTML file with a hand-co
 
 ## Status
 
-Deployed to Vercel and live. Stripe integration and Pro tier in progress.
+<!--Deployed to Vercel and live. Stripe integration and Pro tier in progress.-->
+Local development complete. Deploying to Vercel shortly. Stripe integration and Pro tier planned post-launch.
 
 ---
 
