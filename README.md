@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Live App](https://img.shields.io/badge/Live%20App-spotlore.app-4F46E5?style=flat&logo=vercel&logoColor=white)](https://YOUR_VERCEL_URL_HERE)
+[![Live App](https://img.shields.io/badge/Live%20App-spotlore.app-4F46E5?style=flat&logo=vercel&logoColor=white)](https://spotlore.vercel.app/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange)]()
 <!--[![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://YOUR_VERCEL_URL_HERE)-->
 
